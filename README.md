@@ -26,3 +26,5 @@ markovSSmatrix_hadoop.py:
 **Usage**: `python markovSSmatrix_hadoop.py [input_file] temp.txt`
 
 This code computes the Steady State matrix using a 1-step matrix multiplication framework. Runs on the Cloudera Hadoop Distributed file system. This cannot be run on a local machine. Format of the input file here is the same.
+
+This code requires the [Python Dumbo API](https://github.com/klbostee/dumbo/wiki).
