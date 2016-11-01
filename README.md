@@ -1,3 +1,5 @@
+Committed from a different directory
+
 This code runs the computations of the steady state matrix of a Makov Chain in a Map Reduce Framework. The output from the reducer is fed back to the mapper until convergence is achieved.
 
 This code is written in *Python 2.7*
